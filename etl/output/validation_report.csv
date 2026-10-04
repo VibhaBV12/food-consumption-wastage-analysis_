@@ -1,0 +1,8 @@
+check,value
+Dataset 1 cleaned rows,2600
+Dataset 2 raw rows,1782
+Dataset 2 cleaned rows,1618
+Dataset 1 cleaned missing cells,0
+Dataset 2 cleaned missing cells,0
+Dataset 1 duplicate rows after cleaning,0
+Dataset 2 duplicate rows after cleaning,0
