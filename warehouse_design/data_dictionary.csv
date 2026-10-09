@@ -1,0 +1,36 @@
+Table,Column,Role,Data Type,Description
+dim_date,date_key,Primary Key,INTEGER,Unique identifier for each date
+dim_date,Date,Dimension Attribute,DATE,Calendar date
+dim_date,day,Dimension Attribute,INTEGER,Day number of the month
+dim_date,month,Dimension Attribute,INTEGER,Month number
+dim_date,month_name,Dimension Attribute,VARCHAR(20),Name of the month
+dim_date,year,Dimension Attribute,INTEGER,Year of the date
+dim_date,day_name,Dimension Attribute,VARCHAR(20),Name of the day
+dim_food,food_key,Primary Key,INTEGER,Unique identifier for each food type
+dim_food,food_name,Dimension Attribute,VARCHAR(50),Name of the food type
+dim_meal,meal_key,Primary Key,INTEGER,Unique identifier for each meal
+dim_meal,Meal,Dimension Attribute,VARCHAR(20),Meal category such as Breakfast Lunch or Dinner
+dim_canteen_section,canteen_section_key,Primary Key,INTEGER,Unique identifier for each canteen section
+dim_canteen_section,Canteen_Section,Dimension Attribute,VARCHAR(10),Canteen section identifier
+dim_event_context,event_context_key,Primary Key,INTEGER,Unique identifier for each event context
+dim_event_context,Event_Type,Dimension Attribute,VARCHAR(50),Type of event
+dim_event_context,Storage_Conditions,Dimension Attribute,VARCHAR(30),Food storage condition
+dim_event_context,Purchase_History,Dimension Attribute,VARCHAR(30),Frequency or pattern of food purchasing
+dim_event_context,Seasonality,Dimension Attribute,VARCHAR(30),Seasonal classification of the food or event
+dim_event_context,Preparation_Method,Dimension Attribute,VARCHAR(50),Method used to prepare or serve the food
+dim_event_context,Geographical_Location,Dimension Attribute,VARCHAR(30),Geographical classification of the location
+dim_event_context,Pricing,Dimension Attribute,VARCHAR(20),Pricing category
+fact_canteen_waste,canteen_waste_key,Primary Key,INTEGER,Unique identifier for each canteen waste observation
+fact_canteen_waste,date_key,Foreign Key,INTEGER,Foreign key referencing dim_date(date_key)
+fact_canteen_waste,food_key,Foreign Key,INTEGER,Foreign key referencing dim_food(food_key)
+fact_canteen_waste,meal_key,Foreign Key,INTEGER,Foreign key referencing dim_meal(meal_key)
+fact_canteen_waste,canteen_section_key,Foreign Key,INTEGER,Foreign key referencing dim_canteen_section(canteen_section_key)
+fact_canteen_waste,Waste_Weight_kg,Measure,"DECIMAL(10,2)",Amount of food waste in kilograms
+fact_canteen_waste,Unit_Price_per_kg,Measure,"DECIMAL(10,2)",Price associated with one kilogram of food
+fact_canteen_waste,Cost_Loss,Measure,"DECIMAL(12,2)",Financial loss associated with the wasted food
+fact_event_waste,event_waste_key,Primary Key,INTEGER,Unique identifier for each event waste observation
+fact_event_waste,food_key,Foreign Key,INTEGER,Foreign key referencing dim_food(food_key)
+fact_event_waste,event_context_key,Foreign Key,INTEGER,Foreign key referencing dim_event_context(event_context_key)
+fact_event_waste,Number_of_Guests,Measure,INTEGER,Number of guests associated with the event observation
+fact_event_waste,Quantity_of_Food,Measure,"DECIMAL(10,2)",Quantity of food prepared or available
+fact_event_waste,Wastage_Food_Amount,Measure,"DECIMAL(10,2)",Amount of food wasted
