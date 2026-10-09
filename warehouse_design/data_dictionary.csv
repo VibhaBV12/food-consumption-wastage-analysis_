@@ -21,16 +21,16 @@ dim_event_context,Preparation_Method,Dimension Attribute,VARCHAR(50),Method used
 dim_event_context,Geographical_Location,Dimension Attribute,VARCHAR(30),Geographical classification of the location
 dim_event_context,Pricing,Dimension Attribute,VARCHAR(20),Pricing category
 fact_canteen_waste,canteen_waste_key,Primary Key,INTEGER,Unique identifier for each canteen waste observation
-fact_canteen_waste,date_key,Foreign Key,INTEGER,References dim_date date_key
-fact_canteen_waste,food_key,Foreign Key,INTEGER,References dim_food food_key
-fact_canteen_waste,meal_key,Foreign Key,INTEGER,References dim_meal meal_key
-fact_canteen_waste,canteen_section_key,Foreign Key,INTEGER,References dim_canteen_section canteen_section_key
+fact_canteen_waste,date_key,Foreign Key,INTEGER,Foreign key referencing dim_date(date_key)
+fact_canteen_waste,food_key,Foreign Key,INTEGER,Foreign key referencing dim_food(food_key)
+fact_canteen_waste,meal_key,Foreign Key,INTEGER,Foreign key referencing dim_meal(meal_key)
+fact_canteen_waste,canteen_section_key,Foreign Key,INTEGER,Foreign key referencing dim_canteen_section(canteen_section_key)
 fact_canteen_waste,Waste_Weight_kg,Measure,"DECIMAL(10,2)",Amount of food waste in kilograms
 fact_canteen_waste,Unit_Price_per_kg,Measure,"DECIMAL(10,2)",Price associated with one kilogram of food
 fact_canteen_waste,Cost_Loss,Measure,"DECIMAL(12,2)",Financial loss associated with the wasted food
 fact_event_waste,event_waste_key,Primary Key,INTEGER,Unique identifier for each event waste observation
-fact_event_waste,food_key,Foreign Key,INTEGER,References dim_food food_key
-fact_event_waste,event_context_key,Foreign Key,INTEGER,References dim_event_context event_context_key
+fact_event_waste,food_key,Foreign Key,INTEGER,Foreign key referencing dim_food(food_key)
+fact_event_waste,event_context_key,Foreign Key,INTEGER,Foreign key referencing dim_event_context(event_context_key)
 fact_event_waste,Number_of_Guests,Measure,INTEGER,Number of guests associated with the event observation
 fact_event_waste,Quantity_of_Food,Measure,"DECIMAL(10,2)",Quantity of food prepared or available
 fact_event_waste,Wastage_Food_Amount,Measure,"DECIMAL(10,2)",Amount of food wasted
