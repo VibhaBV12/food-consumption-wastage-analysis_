@@ -1,0 +1,598 @@
+event_context_key,Event_Type,Storage_Conditions,Purchase_History,Seasonality,Preparation_Method,Geographical_Location,Pricing
+1,Corporate,Refrigerated,Regular,All Seasons,Buffet,Urban,Low
+2,Birthday,Room Temperature,Regular,Winter,Buffet,Suburban,High
+3,Birthday,Refrigerated,Regular,Summer,Buffet,Suburban,Low
+4,Birthday,Refrigerated,Regular,All Seasons,Finger Food,Rural,High
+5,Corporate,Refrigerated,Regular,Winter,Finger Food,Urban,Moderate
+6,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,Low
+7,Wedding,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate
+8,Corporate,Refrigerated,Regular,All Seasons,Buffet,Urban,High
+9,Corporate,Refrigerated,Occasional,Winter,Finger Food,Urban,High
+10,Wedding,Room Temperature,Regular,Summer,Buffet,Rural,High
+11,Birthday,Room Temperature,Regular,Winter,Buffet,Suburban,Low
+12,Wedding,Refrigerated,Occasional,Summer,Sit-Down Dinner,Urban,Low
+13,Social Gathering,Room Temperature,Regular,Winter,Buffet,Urban,Low
+14,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,Low
+15,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,High
+16,Birthday,Room Temperature,Regular,Winter,Finger Food,Suburban,Low
+17,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,High
+18,Birthday,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low
+19,Social Gathering,Room Temperature,Regular,Winter,Buffet,Suburban,Low
+20,Corporate,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate
+21,Corporate,Refrigerated,Regular,Winter,Finger Food,Suburban,Low
+22,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,High
+23,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,High
+24,Wedding,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate
+25,Wedding,Refrigerated,Regular,All Seasons,Finger Food,Urban,High
+26,Corporate,Room Temperature,Regular,Summer,Buffet,Rural,High
+27,Birthday,Room Temperature,Regular,Winter,Finger Food,Suburban,High
+28,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,Moderate
+29,Birthday,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate
+30,Corporate,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate
+31,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+32,Corporate,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low
+33,Corporate,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate
+34,Corporate,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate
+35,Social Gathering,Room Temperature,Regular,Summer,Buffet,Urban,Low
+36,Corporate,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate
+37,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Urban,High
+38,Birthday,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,High
+39,Birthday,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+40,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,High
+41,Corporate,Room Temperature,Regular,Summer,Buffet,Suburban,Low
+42,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Low
+43,Birthday,Room Temperature,Regular,Summer,Finger Food,Suburban,Low
+44,Corporate,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate
+45,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,High
+46,Social Gathering,Refrigerated,Regular,All Seasons,Buffet,Urban,Moderate
+47,Birthday,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Low
+48,Corporate,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate
+49,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Urban,Low
+50,Birthday,Room Temperature,Regular,Winter,Finger Food,Urban,Low
+51,Social Gathering,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,High
+52,Birthday,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate
+53,Birthday,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate
+54,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,High
+55,Birthday,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate
+56,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,High
+57,Birthday,Refrigerated,Regular,All Seasons,Buffet,Suburban,High
+58,Wedding,Refrigerated,Regular,Winter,Finger Food,Urban,Low
+59,Birthday,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,High
+60,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Urban,Low
+61,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,High
+62,Wedding,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,High
+63,Corporate,Refrigerated,Occasional,Summer,Finger Food,Urban,Moderate
+64,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Rural,High
+65,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,Moderate
+66,Birthday,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate
+67,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Low
+68,Social Gathering,Refrigerated,Regular,Winter,Finger Food,Rural,High
+69,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Rural,High
+70,Corporate,Room Temperature,Regular,Summer,Finger Food,Urban,High
+71,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High
+72,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Suburban,High
+73,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate
+74,Social Gathering,Refrigerated,Occasional,All Seasons,Finger Food,Rural,High
+75,Social Gathering,Room Temperature,Regular,Summer,Buffet,Suburban,Low
+76,Corporate,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,Moderate
+77,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Urban,High
+78,Social Gathering,Room Temperature,Regular,Summer,Buffet,Rural,High
+79,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate
+80,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Low
+81,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+82,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+83,Corporate,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Rural,Moderate
+84,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low
+85,Social Gathering,Room Temperature,Regular,Summer,Buffet,Suburban,High
+86,Wedding,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,Moderate
+87,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,High
+88,Corporate,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate
+89,Social Gathering,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+90,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,High
+91,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Low
+92,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Moderate
+93,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate
+94,Social Gathering,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,High
+95,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate
+96,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+97,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Moderate
+98,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate
+99,Social Gathering,Room Temperature,Regular,Summer,Buffet,Rural,Moderate
+100,Birthday,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+101,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,High
+102,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low
+103,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Low
+104,Corporate,Refrigerated,Regular,Summer,Buffet,Urban,High
+105,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Rural,Low
+106,Birthday,Refrigerated,Occasional,Winter,Finger Food,Rural,Low
+107,Wedding,Room Temperature,Regular,Summer,Finger Food,Urban,High
+108,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,High
+109,Birthday,Room Temperature,Regular,Summer,Finger Food,Rural,High
+110,Birthday,Refrigerated,Regular,Summer,Finger Food,Rural,High
+111,Social Gathering,Refrigerated,Regular,Summer,Finger Food,Rural,Low
+112,Birthday,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,High
+113,Wedding,Room Temperature,Regular,Summer,Buffet,Suburban,Low
+114,Corporate,Refrigerated,Occasional,Summer,Buffet,Suburban,Low
+115,Corporate,Refrigerated,Regular,Summer,Finger Food,Urban,High
+116,Birthday,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate
+117,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+118,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,High
+119,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Rural,Moderate
+120,Birthday,Room Temperature,Regular,Summer,Finger Food,Rural,Low
+121,Wedding,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate
+122,Corporate,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate
+123,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+124,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate
+125,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+126,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,High
+127,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+128,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate
+129,Wedding,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,High
+130,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low
+131,Social Gathering,Refrigerated,Regular,Winter,Finger Food,Urban,Low
+132,Wedding,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate
+133,Corporate,Refrigerated,Occasional,Summer,Sit-Down Dinner,Urban,High
+134,Wedding,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate
+135,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,High
+136,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,Low
+137,Corporate,Room Temperature,Regular,Winter,Finger Food,Urban,High
+138,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+139,Birthday,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low
+140,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,High
+141,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,High
+142,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,High
+143,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Rural,Low
+144,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Low
+145,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Rural,High
+146,Birthday,Room Temperature,Regular,Winter,Buffet,Rural,High
+147,Corporate,Room Temperature,Regular,All Seasons,Buffet,Urban,Low
+148,Wedding,Refrigerated,Occasional,Summer,Finger Food,Rural,Low
+149,Social Gathering,Refrigerated,Regular,Summer,Buffet,Urban,Low
+150,Birthday,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+151,Wedding,Room Temperature,Regular,Winter,Buffet,Urban,High
+152,Corporate,Room Temperature,Regular,Winter,Buffet,Urban,Low
+153,Wedding,Room Temperature,Regular,All Seasons,Buffet,Urban,Low
+154,Corporate,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate
+155,Birthday,Room Temperature,Regular,Winter,Buffet,Rural,Moderate
+156,Birthday,Room Temperature,Occasional,Summer,Buffet,Suburban,Moderate
+157,Social Gathering,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,High
+158,Birthday,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Low
+159,Birthday,Room Temperature,Regular,Summer,Finger Food,Suburban,High
+160,Corporate,Room Temperature,Occasional,Summer,Finger Food,Urban,High
+161,Corporate,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+162,Birthday,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate
+163,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Rural,High
+164,Birthday,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate
+165,Corporate,Room Temperature,Regular,Summer,Finger Food,Suburban,High
+166,Birthday,Room Temperature,Occasional,All Seasons,Finger Food,Rural,High
+167,Birthday,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,Moderate
+168,Wedding,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate
+169,Wedding,Room Temperature,Occasional,All Seasons,Sit-Down Dinner,Suburban,High
+170,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate
+171,Social Gathering,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+172,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+173,Social Gathering,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate
+174,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate
+175,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Low
+176,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Rural,High
+177,Social Gathering,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,High
+178,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Low
+179,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate
+180,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Moderate
+181,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+182,Birthday,Refrigerated,Regular,Winter,Buffet,Rural,High
+183,Wedding,Refrigerated,Regular,Winter,Buffet,Urban,Moderate
+184,Corporate,Room Temperature,Regular,Summer,Buffet,Urban,High
+185,Birthday,Refrigerated,Regular,Summer,Finger Food,Suburban,Low
+186,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,High
+187,Birthday,Refrigerated,Regular,Winter,Finger Food,Suburban,High
+188,Corporate,Refrigerated,Occasional,Summer,Buffet,Urban,High
+189,Corporate,Refrigerated,Occasional,Winter,Buffet,Rural,High
+190,Birthday,Refrigerated,Regular,Winter,Finger Food,Rural,High
+191,Corporate,Room Temperature,Regular,Summer,Finger Food,Urban,Low
+192,Wedding,Refrigerated,Regular,All Seasons,Finger Food,Rural,High
+193,Corporate,Room Temperature,Regular,Summer,Finger Food,Rural,High
+194,Corporate,Room Temperature,Regular,Winter,Finger Food,Urban,Low
+195,Wedding,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate
+196,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Low
+197,Corporate,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate
+198,Birthday,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate
+199,Birthday,Room Temperature,Regular,Summer,Finger Food,Urban,High
+200,Birthday,Room Temperature,Regular,Summer,Finger Food,Urban,Low
+201,Birthday,Room Temperature,Regular,Summer,Buffet,Suburban,Low
+202,Corporate,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate
+203,Wedding,Room Temperature,Occasional,Summer,Buffet,Rural,High
+204,Birthday,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate
+205,Corporate,Room Temperature,Regular,Winter,Finger Food,Suburban,High
+206,Corporate,Room Temperature,Regular,Winter,Finger Food,Suburban,Low
+207,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,Moderate
+208,Birthday,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+209,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High
+210,Birthday,Room Temperature,Regular,All Seasons,Buffet,Rural,Moderate
+211,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,High
+212,Wedding,Refrigerated,Regular,Winter,Buffet,Rural,High
+213,Birthday,Room Temperature,Regular,Summer,Buffet,Urban,Low
+214,Corporate,Refrigerated,Regular,Winter,Finger Food,Urban,Low
+215,Wedding,Refrigerated,Regular,All Seasons,Buffet,Rural,High
+216,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low
+217,Birthday,Room Temperature,Regular,Summer,Sit-Down Dinner,Rural,High
+218,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate
+219,Corporate,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate
+220,Wedding,Room Temperature,Regular,Summer,Finger Food,Rural,High
+221,Corporate,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate
+222,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+223,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Rural,Low
+224,Birthday,Room Temperature,Occasional,Winter,Buffet,Rural,High
+225,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,High
+226,Wedding,Room Temperature,Occasional,All Seasons,Sit-Down Dinner,Suburban,Low
+227,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate
+228,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,High
+229,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Rural,Low
+230,Birthday,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,High
+231,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate
+232,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+233,Wedding,Room Temperature,Occasional,Summer,Sit-Down Dinner,Urban,Moderate
+234,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Low
+235,Corporate,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,Low
+236,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate
+237,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate
+238,Corporate,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low
+239,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,High
+240,Birthday,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate
+241,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+242,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,Low
+243,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+244,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+245,Birthday,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+246,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,High
+247,Birthday,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,High
+248,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Rural,High
+249,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+250,Corporate,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate
+251,Corporate,Room Temperature,Occasional,Summer,Finger Food,Suburban,Moderate
+252,Social Gathering,Refrigerated,Occasional,Winter,Buffet,Rural,High
+253,Birthday,Room Temperature,Regular,Summer,Buffet,Rural,High
+254,Corporate,Room Temperature,Regular,Winter,Buffet,Urban,High
+255,Birthday,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate
+256,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low
+257,Corporate,Room Temperature,Occasional,Winter,Finger Food,Suburban,Moderate
+258,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate
+259,Corporate,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,Moderate
+260,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,Moderate
+261,Social Gathering,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Rural,Moderate
+262,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High
+263,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,Moderate
+264,Corporate,Refrigerated,Occasional,Winter,Sit-Down Dinner,Rural,Moderate
+265,Wedding,Room Temperature,Regular,All Seasons,Buffet,Urban,High
+266,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Rural,High
+267,Social Gathering,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate
+268,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Low
+269,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Suburban,High
+270,Corporate,Room Temperature,Occasional,All Seasons,Finger Food,Urban,High
+271,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Urban,High
+272,Corporate,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,High
+273,Wedding,Room Temperature,Occasional,Summer,Finger Food,Suburban,High
+274,Social Gathering,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,High
+275,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Rural,Low
+276,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low
+277,Social Gathering,Room Temperature,Occasional,Summer,Buffet,Suburban,Low
+278,Social Gathering,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+279,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Urban,High
+280,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low
+281,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Suburban,High
+282,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Low
+283,Birthday,Refrigerated,Regular,Summer,Buffet,Rural,High
+284,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,Low
+285,Corporate,Refrigerated,Occasional,Winter,Buffet,Urban,Low
+286,Wedding,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate
+287,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,High
+288,Wedding,Refrigerated,Occasional,Summer,Finger Food,Rural,High
+289,Corporate,Refrigerated,Occasional,All Seasons,Buffet,Suburban,High
+290,Corporate,Refrigerated,Regular,Winter,Buffet,Suburban,Moderate
+291,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+292,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+293,Wedding,Refrigerated,Occasional,Summer,Finger Food,Rural,Moderate
+294,Corporate,Room Temperature,Occasional,Winter,Buffet,Suburban,Low
+295,Social Gathering,Refrigerated,Regular,Summer,Buffet,Rural,Moderate
+296,Wedding,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Low
+297,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,High
+298,Wedding,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,Moderate
+299,Wedding,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate
+300,Birthday,Room Temperature,Regular,All Seasons,Buffet,Suburban,High
+301,Corporate,Room Temperature,Regular,Winter,Finger Food,Rural,Low
+302,Corporate,Refrigerated,Occasional,Winter,Sit-Down Dinner,Suburban,Moderate
+303,Corporate,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,High
+304,Corporate,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate
+305,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate
+306,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Rural,High
+307,Wedding,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,Moderate
+308,Social Gathering,Room Temperature,Regular,Summer,Buffet,Suburban,Moderate
+309,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+310,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate
+311,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+312,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Urban,High
+313,Wedding,Refrigerated,Regular,Summer,Buffet,Urban,Low
+314,Wedding,Refrigerated,Regular,Summer,Finger Food,Rural,Low
+315,Corporate,Refrigerated,Occasional,Winter,Finger Food,Urban,Low
+316,Birthday,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,High
+317,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Urban,High
+318,Birthday,Room Temperature,Regular,Winter,Finger Food,Rural,Low
+319,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Low
+320,Birthday,Refrigerated,Occasional,Winter,Finger Food,Suburban,Low
+321,Social Gathering,Refrigerated,Regular,Summer,Finger Food,Suburban,High
+322,Corporate,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate
+323,Birthday,Room Temperature,Regular,Winter,Finger Food,Rural,High
+324,Wedding,Room Temperature,Regular,Summer,Buffet,Suburban,Moderate
+325,Wedding,Room Temperature,Occasional,Summer,Finger Food,Rural,High
+326,Birthday,Room Temperature,Occasional,Winter,Buffet,Rural,Moderate
+327,Corporate,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,High
+328,Corporate,Room Temperature,Occasional,All Seasons,Finger Food,Rural,Moderate
+329,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Suburban,Low
+330,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low
+331,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Rural,Moderate
+332,Corporate,Room Temperature,Occasional,All Seasons,Sit-Down Dinner,Suburban,High
+333,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+334,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+335,Wedding,Refrigerated,Regular,Summer,Buffet,Suburban,High
+336,Wedding,Refrigerated,Regular,Summer,Finger Food,Urban,Low
+337,Wedding,Refrigerated,Occasional,Summer,Buffet,Suburban,Low
+338,Birthday,Refrigerated,Regular,Summer,Buffet,Urban,Low
+339,Corporate,Refrigerated,Occasional,Winter,Buffet,Suburban,High
+340,Wedding,Refrigerated,Regular,Winter,Buffet,Suburban,Low
+341,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Urban,Low
+342,Corporate,Refrigerated,Occasional,Summer,Finger Food,Urban,Low
+343,Wedding,Refrigerated,Regular,Winter,Sit-Down Dinner,Rural,High
+344,Wedding,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate
+345,Birthday,Refrigerated,Regular,Summer,Finger Food,Rural,Low
+346,Birthday,Refrigerated,Regular,All Seasons,Buffet,Rural,High
+347,Birthday,Refrigerated,Regular,Winter,Buffet,Suburban,Moderate
+348,Corporate,Room Temperature,Occasional,Summer,Buffet,Suburban,Moderate
+349,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Rural,High
+350,Social Gathering,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate
+351,Wedding,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Low
+352,Birthday,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate
+353,Birthday,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate
+354,Corporate,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate
+355,Birthday,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Low
+356,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Rural,Moderate
+357,Birthday,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+358,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High
+359,Birthday,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate
+360,Wedding,Refrigerated,Regular,All Seasons,Finger Food,Urban,Low
+361,Birthday,Refrigerated,Regular,Winter,Finger Food,Rural,Low
+362,Corporate,Refrigerated,Regular,Winter,Finger Food,Rural,High
+363,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+364,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,High
+365,Birthday,Room Temperature,Regular,Winter,Buffet,Urban,Low
+366,Birthday,Refrigerated,Regular,Winter,Finger Food,Suburban,Low
+367,Corporate,Refrigerated,Regular,Summer,Finger Food,Suburban,High
+368,Corporate,Room Temperature,Occasional,All Seasons,Finger Food,Suburban,Moderate
+369,Birthday,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate
+370,Wedding,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate
+371,Social Gathering,Refrigerated,Regular,All Seasons,Buffet,Suburban,High
+372,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Low
+373,Social Gathering,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate
+374,Wedding,Refrigerated,Occasional,Summer,Sit-Down Dinner,Rural,Moderate
+375,Social Gathering,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate
+376,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate
+377,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,Low
+378,Birthday,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,Moderate
+379,Social Gathering,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low
+380,Birthday,Refrigerated,Regular,All Seasons,Buffet,Urban,Low
+381,Social Gathering,Refrigerated,Regular,Summer,Buffet,Suburban,Low
+382,Corporate,Refrigerated,Regular,All Seasons,Finger Food,Urban,High
+383,Wedding,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate
+384,Wedding,Refrigerated,Regular,Winter,Finger Food,Urban,Moderate
+385,Wedding,Room Temperature,Regular,Winter,Finger Food,Rural,High
+386,Corporate,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Rural,High
+387,Birthday,Room Temperature,Regular,All Seasons,Buffet,Rural,High
+388,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low
+389,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Rural,High
+390,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Low
+391,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Suburban,Low
+392,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,High
+393,Social Gathering,Room Temperature,Occasional,All Seasons,Finger Food,Suburban,Moderate
+394,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,Moderate
+395,Wedding,Refrigerated,Occasional,Summer,Buffet,Rural,High
+396,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Rural,Low
+397,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,High
+398,Birthday,Refrigerated,Regular,All Seasons,Buffet,Suburban,Moderate
+399,Corporate,Refrigerated,Occasional,Winter,Buffet,Suburban,Moderate
+400,Wedding,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate
+401,Wedding,Room Temperature,Regular,Summer,Finger Food,Rural,Low
+402,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,Low
+403,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Rural,Moderate
+404,Wedding,Room Temperature,Occasional,All Seasons,Buffet,Urban,Low
+405,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Rural,High
+406,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Moderate
+407,Corporate,Refrigerated,Occasional,All Seasons,Finger Food,Urban,Moderate
+408,Wedding,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Urban,Low
+409,Social Gathering,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,Low
+410,Social Gathering,Room Temperature,Regular,Winter,Buffet,Urban,High
+411,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Suburban,High
+412,Corporate,Room Temperature,Occasional,Summer,Sit-Down Dinner,Suburban,High
+413,Corporate,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low
+414,Social Gathering,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Moderate
+415,Birthday,Refrigerated,Regular,Summer,Finger Food,Urban,High
+416,Corporate,Room Temperature,Regular,Summer,Buffet,Urban,Low
+417,Corporate,Refrigerated,Regular,Winter,Finger Food,Rural,Low
+418,Corporate,Refrigerated,Occasional,Winter,Finger Food,Urban,Moderate
+419,Corporate,Refrigerated,Occasional,Summer,Finger Food,Rural,Low
+420,Birthday,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,High
+421,Birthday,Room Temperature,Regular,All Seasons,Buffet,Urban,Low
+422,Corporate,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate
+423,Social Gathering,Refrigerated,Regular,All Seasons,Buffet,Rural,High
+424,Wedding,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate
+425,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Rural,High
+426,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Low
+427,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Urban,High
+428,Wedding,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate
+429,Corporate,Refrigerated,Occasional,Winter,Sit-Down Dinner,Urban,High
+430,Corporate,Room Temperature,Regular,All Seasons,Buffet,Urban,High
+431,Corporate,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,Low
+432,Social Gathering,Room Temperature,Occasional,All Seasons,Buffet,Suburban,Low
+433,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate
+434,Wedding,Room Temperature,Occasional,Winter,Sit-Down Dinner,Urban,High
+435,Social Gathering,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,High
+436,Wedding,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,High
+437,Social Gathering,Refrigerated,Regular,Winter,Sit-Down Dinner,Suburban,Low
+438,Social Gathering,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Low
+439,Birthday,Room Temperature,Occasional,All Seasons,Sit-Down Dinner,Suburban,Moderate
+440,Wedding,Refrigerated,Regular,Winter,Finger Food,Rural,High
+441,Corporate,Refrigerated,Regular,Summer,Buffet,Urban,Moderate
+442,Wedding,Refrigerated,Regular,Winter,Finger Food,Suburban,High
+443,Birthday,Room Temperature,Regular,Summer,Buffet,Suburban,High
+444,Corporate,Refrigerated,Occasional,Summer,Finger Food,Suburban,High
+445,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Suburban,Low
+446,Birthday,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,Low
+447,Corporate,Room Temperature,Regular,All Seasons,Buffet,Suburban,High
+448,Wedding,Room Temperature,Regular,All Seasons,Buffet,Rural,High
+449,Corporate,Room Temperature,Occasional,Winter,Finger Food,Suburban,High
+450,Birthday,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,High
+451,Birthday,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,High
+452,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,High
+453,Birthday,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Low
+454,Social Gathering,Room Temperature,Regular,Summer,Buffet,Urban,Moderate
+455,Birthday,Refrigerated,Regular,Winter,Finger Food,Urban,High
+456,Corporate,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,Moderate
+457,Social Gathering,Room Temperature,Regular,Winter,Finger Food,Urban,High
+458,Birthday,Refrigerated,Occasional,Winter,Buffet,Urban,Moderate
+459,Corporate,Refrigerated,Regular,All Seasons,Finger Food,Rural,Low
+460,Birthday,Refrigerated,Regular,Summer,Finger Food,Suburban,High
+461,Birthday,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+462,Wedding,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Rural,Low
+463,Corporate,Room Temperature,Regular,Winter,Buffet,Urban,Moderate
+464,Corporate,Room Temperature,Occasional,Winter,Finger Food,Urban,High
+465,Corporate,Refrigerated,Occasional,Summer,Sit-Down Dinner,Urban,Moderate
+466,Corporate,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+467,Corporate,Room Temperature,Regular,All Seasons,Buffet,Suburban,Moderate
+468,Social Gathering,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Suburban,Moderate
+469,Wedding,Refrigerated,Regular,Summer,Buffet,Rural,High
+470,Wedding,Refrigerated,Regular,Winter,Finger Food,Suburban,Low
+471,Wedding,Refrigerated,Occasional,Winter,Buffet,Suburban,Moderate
+472,Corporate,Refrigerated,Occasional,Winter,Finger Food,Suburban,Low
+473,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,Low
+474,Corporate,Refrigerated,Regular,Winter,Buffet,Urban,Moderate
+475,Corporate,Refrigerated,Regular,Winter,Finger Food,Urban,High
+476,Birthday,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,Low
+477,Wedding,Refrigerated,Occasional,Summer,Finger Food,Suburban,Low
+478,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+479,Wedding,Room Temperature,Regular,Winter,Finger Food,Rural,Low
+480,Social Gathering,Refrigerated,Regular,Winter,Buffet,Suburban,Low
+481,Wedding,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,Low
+482,Birthday,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate
+483,Wedding,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Low
+484,Birthday,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Suburban,High
+485,Social Gathering,Refrigerated,Regular,All Seasons,Buffet,Suburban,Moderate
+486,Social Gathering,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,High
+487,Social Gathering,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+488,Social Gathering,Room Temperature,Occasional,Winter,Finger Food,Rural,Moderate
+489,Wedding,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low
+490,Social Gathering,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate
+491,Birthday,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low
+492,Wedding,Room Temperature,Occasional,Summer,Sit-Down Dinner,Suburban,Low
+493,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Suburban,Low
+494,Social Gathering,Room Temperature,Regular,All Seasons,Buffet,Suburban,Moderate
+495,Birthday,Refrigerated,Regular,Winter,Buffet,Suburban,Low
+496,Wedding,Refrigerated,Regular,All Seasons,Buffet,Urban,Low
+497,Birthday,Refrigerated,Regular,Summer,Buffet,Urban,Moderate
+498,Wedding,Refrigerated,Regular,All Seasons,Buffet,Rural,Moderate
+499,Social Gathering,Refrigerated,Regular,Summer,Buffet,Rural,Low
+500,Corporate,Refrigerated,Regular,Winter,Sit-Down Dinner,Rural,Moderate
+501,Social Gathering,Room Temperature,Regular,Winter,Buffet,Rural,Moderate
+502,Corporate,Room Temperature,Regular,Summer,Buffet,Suburban,High
+503,Corporate,Room Temperature,Occasional,All Seasons,Buffet,Rural,Moderate
+504,Corporate,Room Temperature,Occasional,All Seasons,Buffet,Suburban,High
+505,Wedding,Refrigerated,Occasional,All Seasons,Buffet,Suburban,High
+506,Corporate,Refrigerated,Regular,Winter,Buffet,Urban,Low
+507,Birthday,Room Temperature,Regular,Summer,Buffet,Urban,Moderate
+508,Corporate,Refrigerated,Occasional,Summer,Buffet,Suburban,Moderate
+509,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Urban,Low
+510,Social Gathering,Room Temperature,Regular,Summer,Finger Food,Urban,Low
+511,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Suburban,Moderate
+512,Birthday,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Moderate
+513,Corporate,Room Temperature,Regular,Summer,Finger Food,Suburban,Low
+514,Corporate,Room Temperature,Occasional,All Seasons,Buffet,Urban,Moderate
+515,Social Gathering,Refrigerated,Occasional,Summer,Sit-Down Dinner,Urban,High
+516,Wedding,Room Temperature,Occasional,All Seasons,Finger Food,Suburban,Low
+517,Wedding,Room Temperature,Regular,Winter,Finger Food,Urban,Low
+518,Birthday,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate
+519,Corporate,Refrigerated,Occasional,Winter,Finger Food,Rural,Moderate
+520,Corporate,Room Temperature,Regular,Summer,Sit-Down Dinner,Urban,Moderate
+521,Wedding,Room Temperature,Regular,Summer,Finger Food,Suburban,Low
+522,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Suburban,High
+523,Corporate,Refrigerated,Occasional,Winter,Sit-Down Dinner,Suburban,High
+524,Social Gathering,Refrigerated,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+525,Social Gathering,Room Temperature,Occasional,All Seasons,Buffet,Rural,Moderate
+526,Social Gathering,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,Moderate
+527,Wedding,Refrigerated,Occasional,Winter,Buffet,Rural,High
+528,Birthday,Refrigerated,Regular,Summer,Buffet,Suburban,High
+529,Wedding,Refrigerated,Regular,All Seasons,Buffet,Suburban,Low
+530,Wedding,Refrigerated,Regular,Summer,Finger Food,Suburban,High
+531,Social Gathering,Refrigerated,Regular,Winter,Buffet,Rural,High
+532,Birthday,Refrigerated,Regular,Summer,Sit-Down Dinner,Suburban,Low
+533,Corporate,Room Temperature,Regular,Winter,Sit-Down Dinner,Rural,Low
+534,Wedding,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate
+535,Corporate,Room Temperature,Regular,All Seasons,Buffet,Rural,High
+536,Social Gathering,Refrigerated,Regular,Summer,Finger Food,Suburban,Low
+537,Wedding,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,Low
+538,Birthday,Refrigerated,Regular,Winter,Buffet,Suburban,High
+539,Wedding,Refrigerated,Regular,Winter,Buffet,Suburban,High
+540,Corporate,Refrigerated,Occasional,Winter,Buffet,Suburban,Low
+541,Wedding,Refrigerated,Occasional,Winter,Finger Food,Rural,Low
+542,Corporate,Room Temperature,Occasional,Winter,Sit-Down Dinner,Suburban,Moderate
+543,Birthday,Refrigerated,Regular,Winter,Buffet,Urban,Moderate
+544,Wedding,Room Temperature,Regular,Winter,Buffet,Urban,Low
+545,Birthday,Refrigerated,Regular,All Seasons,Finger Food,Suburban,High
+546,Corporate,Room Temperature,Occasional,Winter,Finger Food,Rural,Low
+547,Social Gathering,Room Temperature,Regular,Winter,Buffet,Suburban,High
+548,Corporate,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Urban,Low
+549,Corporate,Room Temperature,Occasional,Winter,Buffet,Suburban,High
+550,Social Gathering,Refrigerated,Regular,All Seasons,Finger Food,Urban,High
+551,Birthday,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,High
+552,Wedding,Room Temperature,Occasional,Summer,Sit-Down Dinner,Suburban,High
+553,Social Gathering,Room Temperature,Regular,Winter,Buffet,Rural,High
+554,Corporate,Refrigerated,Regular,Summer,Finger Food,Urban,Low
+555,Birthday,Refrigerated,Regular,All Seasons,Buffet,Suburban,Low
+556,Corporate,Refrigerated,Occasional,Winter,Sit-Down Dinner,Urban,Low
+557,Wedding,Refrigerated,Occasional,Summer,Sit-Down Dinner,Rural,High
+558,Wedding,Refrigerated,Occasional,Summer,Sit-Down Dinner,Suburban,Low
+559,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,Moderate
+560,Birthday,Room Temperature,Regular,Summer,Buffet,Rural,Moderate
+561,Corporate,Refrigerated,Occasional,Winter,Sit-Down Dinner,Suburban,Low
+562,Wedding,Room Temperature,Occasional,Winter,Finger Food,Urban,High
+563,Corporate,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Rural,Moderate
+564,Social Gathering,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate
+565,Social Gathering,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,Low
+566,Birthday,Room Temperature,Regular,Winter,Sit-Down Dinner,Urban,Moderate
+567,Corporate,Room Temperature,Occasional,Winter,Sit-Down Dinner,Rural,Moderate
+568,Social Gathering,Room Temperature,Occasional,Winter,Buffet,Suburban,Moderate
+569,Wedding,Refrigerated,Occasional,Winter,Buffet,Suburban,Low
+570,Corporate,Refrigerated,Regular,Winter,Buffet,Suburban,High
+571,Wedding,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,Low
+572,Social Gathering,Refrigerated,Regular,All Seasons,Buffet,Urban,Low
+573,Corporate,Refrigerated,Regular,All Seasons,Buffet,Rural,High
+574,Wedding,Refrigerated,Occasional,All Seasons,Sit-Down Dinner,Rural,Moderate
+575,Birthday,Room Temperature,Occasional,All Seasons,Finger Food,Rural,Low
+576,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Suburban,Moderate
+577,Corporate,Refrigerated,Regular,Summer,Buffet,Suburban,Low
+578,Wedding,Room Temperature,Regular,Summer,Buffet,Urban,High
+579,Social Gathering,Refrigerated,Regular,Summer,Buffet,Urban,Moderate
+580,Wedding,Refrigerated,Regular,Summer,Finger Food,Rural,High
+581,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,High
+582,Wedding,Room Temperature,Occasional,All Seasons,Finger Food,Rural,High
+583,Social Gathering,Room Temperature,Occasional,Summer,Finger Food,Suburban,Moderate
+584,Corporate,Refrigerated,Regular,Winter,Finger Food,Suburban,High
+585,Birthday,Room Temperature,Regular,Winter,Finger Food,Urban,High
+586,Corporate,Refrigerated,Regular,Summer,Sit-Down Dinner,Rural,Low
+587,Corporate,Room Temperature,Regular,All Seasons,Sit-Down Dinner,Rural,Moderate
+588,Social Gathering,Refrigerated,Occasional,Winter,Buffet,Rural,Low
+589,Wedding,Refrigerated,Occasional,Winter,Sit-Down Dinner,Urban,Low
+590,Wedding,Refrigerated,Occasional,Winter,Finger Food,Rural,Moderate
+591,Birthday,Refrigerated,Regular,All Seasons,Sit-Down Dinner,Urban,Low
+592,Corporate,Refrigerated,Occasional,All Seasons,Buffet,Suburban,Moderate
+593,Corporate,Refrigerated,Regular,Winter,Buffet,Urban,High
+594,Wedding,Refrigerated,Occasional,Summer,Buffet,Urban,Low
+595,Wedding,Refrigerated,Occasional,Summer,Buffet,Suburban,High
+596,Corporate,Refrigerated,Occasional,Summer,Finger Food,Rural,Moderate
+597,Social Gathering,Room Temperature,Regular,Winter,Buffet,Rural,Low
